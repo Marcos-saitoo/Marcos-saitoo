@@ -29,4 +29,11 @@
 
 <b>Experience : 6 months working with software engineering.
   PROJECTS ARE PRIVATE AND FOR ITERNAL USE , SO NO PREVIEW N/OR REPOSITORY </b>
-<p>Credit: <a href="https://github.com/Marcos-saitoo"> </a></p>
+<h1>
+  <p>
+<b><li>INTERMEDIARY ENGLISH</li> </b>
+<b><li>FLUENT PORTUGUESE </li></b>
+<b><li>BASIC SPANISH </li> </b>
+   
+  </p>
+</h1>
