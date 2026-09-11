@@ -5,11 +5,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E00F7&center=true&vCenter=true&width=435&lines=Software+Engineering" alt="Typing SVG" /></a>
     </div>
     <div align="center">
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&amp;logo=linkedin" alt="LinkedIn"></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&amp;logo=upwork" alt="UpWork"></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&amp;logo=stackoverflow&amp;logoColor=white" alt="Stack Overflow"></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&amp;logo=quora" alt="Quora"></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&amp;logo=telegram" alt="Telegram"></a>
+        <a href="https://www.linkedin.com/in/marcos-saito-6795aa400/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&amp;logo=linkedin" alt="LinkedIn"></a
     </div>
     <div align="left">
         <br>
