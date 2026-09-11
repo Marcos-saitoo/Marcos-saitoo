@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Front-End Enthusiast, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                Computer Science Student, Back-End Engineer, Front-End Enthusiast, Problem Solver, Freelancer, Open-Source Enthusiast and Co-Founder and co-CEO of MOLS.com.br.<br><br>
                 I specialize in Java, JavaScript, Python, C#, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning CyberSecurity, Database Systems, FullStack Skills / frameworks, and absolutely every new challenge that appears on my career<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
