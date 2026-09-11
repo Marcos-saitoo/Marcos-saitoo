@@ -26,8 +26,6 @@
             <li>📷 <b> Follow mols team on instagram</b>: <a href="https://www.instagram.com/mols.br/"> Mols.br </a>. </li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
 
-        </ul>
-    </div>
 
 <b>Experience : 6 months working with software engineering.
   PROJECTS ARE PRIVATE AND FOR ITERNAL USE , SO NO PREVIEW N/OR REPOSITORY </b>
