@@ -28,16 +28,7 @@
 
         </ul>
     </div>
-    <div align="center">
-        <br>
-        <br>>
-        <br>
-        <br>
-    </div>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
-<hr>
+
+<b>Experience : 6 months working with software engineering.
+  PROJECTS ARE PRIVATE AND FOR ITERNAL USE , SO NO PREVIEW N/OR REPOSITORY </b>
 <p>Credit: <a href="https://github.com/Marcos-saitoo"> </a></p>
